@@ -1,6 +1,6 @@
 # Strato Studio — Landing Page (Build)
 
-Landing de la agencia con las **5 etapas** como núcleo: Estratégica → Producción estructurada → Postproducción → Distribución inteligente → Optimización continua.
+Landing de la agencia modo marketing con las **5 etapas** como núcleo: Estratégica → Producción estructurada → Postproducción → Distribución inteligente → Optimización continua.
 
 ## Cómo ejecutar
 
