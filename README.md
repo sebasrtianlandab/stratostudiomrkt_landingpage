@@ -24,3 +24,4 @@ npm run preview
 - **Carpeta de build** (este proyecto): `strato-landing-build`
 
 Stack: Vite + React 18 + TypeScript + Tailwind CSS.
+
